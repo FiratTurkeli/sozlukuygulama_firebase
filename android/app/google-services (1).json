@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397190954903",
+    "firebase_url": "https://udemyegitim2-82fba-default-rtdb.firebaseio.com",
+    "project_id": "udemyegitim2-82fba",
+    "storage_bucket": "udemyegitim2-82fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397190954903:android:78d4ed270a7daaf521ced2",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397190954903-2c46sd6s1nn3fm0q83tubo711pnbjgjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoikJgWOfUw_JhICv6Ymq5c_sk4YlcFP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397190954903-2c46sd6s1nn3fm0q83tubo711pnbjgjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
